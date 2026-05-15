@@ -79,6 +79,12 @@ Open `output/map.html` in any browser.
 
 ---
 
+## A Little More About This Project
+
+The idea for this project was sparked by a post-grad trip my girlfriend took! She hiked the Albanian Riviera and the Peaks of the Balkans trail, so I decided to make this project to map her trip. All of the pictures used in each of the popups were taken by her during her travels.  
+
+---
+
 ## Data Sources
 
 - Trail network: [OpenStreetMap](https://www.openstreetmap.org/) via osmnx
