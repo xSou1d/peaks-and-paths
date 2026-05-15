@@ -16,7 +16,7 @@
       "country": "Albania",
       "type": "transit",
       "notes": "Arrived via British Airways and connected by bus to Himara.",
-      "description": "First stop in Albania. Passed through the bus terminal and headed straight to the coast.",
+      "description": "Albania's capital is chaotic and colorful in equal measure. The bus terminal is a crash course in Balkan travel; nothing is labeled, everything moves fast, and somehow it all works out.",
       "activities": ["Bus connection to Himara"],
       "photo": null,
       "segment_to_next": "bus"
@@ -30,8 +30,8 @@
       "lon": 19.7467,
       "country": "Albania",
       "type": "camp",
-      "notes": "4 nights on the Albanian Riviera at The Sea Cave Camping. Beautiful coastline surrounded by limestone cliffs.",
-      "description": "Four nights camping on the Albanian Riviera. Spent time swimming, exploring sea caves, and hiking along the coast.",
+      "notes": "Four nights on the Albanian Riviera at The Sea Cave Camping. Beautiful coastline surrounded by limestone cliffs.",
+      "description": "The Albanian Riviera is largely undiscovered compared to the rest of the Mediterranean, with very few tourists, incredibly clear water, and some of the cheapest camping in Europe.",
       "activities": ["Swimming", "Sea cave exploration", "Beach days", "Coastal hiking"],
       "photo": "Himare.jpg",
       "segment_to_next": "bus"
@@ -46,7 +46,7 @@
       "country": "Albania",
       "type": "hostel",
       "notes": "Stayed in a hostel before heading into the mountains.",
-      "description": "Two nights at Wanderer's Hostel. Explored the old town and Rozafa Castle before gearing up for the trail.",
+      "description":  "One of Albania's oldest cities, sitting at the foot of the Albanian Alps with a relaxed pace that makes it easy to spend more time than planned. Rozafa Castle has some of the best views in the country.",
       "activities": ["Exploring the old town", "Rozafa Castle", "Gear prep for the trail"],
       "photo": null,
       "segment_to_next": "transfer"
@@ -61,7 +61,7 @@
       "country": "Albania",
       "type": "camp",
       "notes": "Reached by boat through Koman Lake. Camped along the turquoise river.",
-      "description": "Traveled by boat through the Koman reservoir to reach the Shala River canyon. One of the more remote spots on the trip.",
+      "description": "Known as the Blue Eye of Albania, the Shala River canyon is only reachable by boat through the Koman reservoir. It is one of the most scenic ferry rides in the Balkans and completely off the tourist radar.",
       "activities": ["Boat transfer through Koman Lake", "Swimming", "Canyon exploration"],
       "photo": null,
       "segment_to_next": "ferry"
@@ -76,7 +76,7 @@
       "country": "Albania",
       "type": "guesthouse",
       "notes": "Starting point for the Peaks of the Balkans trail. Alpine valley surrounded by peaks.",
-      "description": "Arrived by ferry and bus from Shala. The entry point to the Peaks of the Balkans multi-day hike.",
+      "description": "Valbona valley is considered one of the last truly wild places in Europe. The Albanian Alps here are dramatic and largely unmapped, which is exactly what makes the Peaks of the Balkans trail so rewarding.",
       "activities": ["Ferry and bus from Shala", "Trail orientation", "Rest before the hike"],
       "photo": null,
       "segment_to_next": "hike"
@@ -91,7 +91,7 @@
       "country": "Albania",
       "type": "guesthouse",
       "notes": "First full day of hiking out of Valbona. Remote village in the Albanian Alps.",
-      "description": "Hiked out of Valbona valley through forest and alpine meadows. Stayed at Guesthouse Kujtim Gocaj.",
+      "description": "Deep in the Albanian Alps with no roads and no phone signal. Guesthouses here are family-run operations that have been hosting hikers for generations. Simple, warm, and exactly what you need after a full day on the trail.",
       "activities": ["Full day hike from Valbona", "Alpine meadow crossing"],
       "photo": null,
       "segment_to_next": "hike"
@@ -106,7 +106,7 @@
       "country": "Albania",
       "type": "guesthouse",
       "notes": "High mountain pasture settlement near the Kosovo border. Ridge views in all directions.",
-      "description": "Hiked from Cerem through some of the most dramatic ridge terrain on the route. Near the Kosovo border.",
+      "description": "A high alpine settlement sitting near the triple border zone where Albania, Kosovo, and Montenegro converge. On a clear day you can see all three countries from the ridge above the village.",
       "activities": ["Ridge hike from Cerem", "Border zone views"],
       "photo": null,
       "segment_to_next": "hike"
@@ -121,7 +121,7 @@
       "country": "Kosovo",
       "type": "guesthouse",
       "notes": "Crossed into Kosovo on the trail. High valley with views back into Albania.",
-      "description": "First stop in Kosovo after crossing the border from Doberdol. Stayed at Chalet Rrusta.",
+      "description": "Kosovo is one of the youngest countries in the world, having declared independence in 2008. Most people pass through without stopping. Hiking in from Albania is one of the more unusual ways to arrive.",
       "activities": ["Border crossing into Kosovo", "High valley hike from Doberdol"],
       "photo": null,
       "segment_to_next": "hike"
@@ -136,7 +136,7 @@
       "country": "Kosovo",
       "type": "camp",
       "notes": "One of the most isolated stops on the route. Wild camping in the Kosovo highlands.",
-      "description": "Hiked from Milishevc through open highland terrain. Minimal infrastructure and very few other hikers.",
+      "description": "One of the most remote overnight points on the entire Peaks of the Balkans circuit. No guesthouses, no infrastructure, just open highland terrain and a sky full of stars.",
       "activities": ["High ridge hike from Milishevc", "Wild camping"],
       "photo": null,
       "segment_to_next": "hike"
@@ -151,7 +151,7 @@
       "country": "Montenegro",
       "type": "guesthouse",
       "notes": "Descended into Montenegro beside a glacial lake. Breakfast included at Guest House Erdan.",
-      "description": "Crossed into Montenegro and reached Plav, a town set beside a glacial lake surrounded by mountains.",
+      "description": "Plav sits beside a glacial lake at 900 meters elevation, surrounded by peaks on all sides. It's one of Montenegro's least visited towns, which makes arriving on foot from Kosovo feel like a genuine discovery.",
       "activities": ["Hike from Babino Polje", "Plav Lake views"],
       "photo": null,
       "segment_to_next": "hike"
@@ -166,7 +166,7 @@
       "country": "Montenegro",
       "type": "guesthouse",
       "notes": "Last stop in Montenegro before crossing back into Albania. Breakfast included.",
-      "description": "Short hike from Plav to Vusanje. Final night in Montenegro before the push to Theth.",
+      "description": "A tiny village at the end of a dead-end valley, squeezed between Montenegro and Albania. The Peaks of the Balkans trail passes directly through. Without the trail, almost nobody would come here.",
       "activities": ["Hike from Plav", "Rest before final day"],
       "photo": null,
       "segment_to_next": "hike"
@@ -181,7 +181,7 @@
       "country": "Albania",
       "type": "camp",
       "notes": "End of the Peaks of the Balkans trail. Traditional Albanian village with a waterfall nearby.",
-      "description": "Hiked from Vusanje back into Albania to reach Theth, the finish of the Peaks of the Balkans route.",
+      "description": "Theth was completely cut off from the outside world for most of the 20th century due to Albania's isolation under communism. The stone lock-in tower in the village center was used to shelter men during blood feuds, a tradition that persisted into the 1990s.",
       "activities": ["Final hike from Vusanje", "Theth waterfall", "Blue Eye of Theth"],
       "photo": null,
       "segment_to_next": "minivan"
@@ -196,7 +196,7 @@
       "country": "Albania",
       "type": "hostel",
       "notes": "Back in Shkoder for the final night after completing the trail.",
-      "description": "Took a minivan from Theth back to Shkoder. Last night in Albania before the flight out.",
+      "description": "Coming back to Shkodër after a week in the mountains feels like returning to civilization. The same streets that felt unremarkable on the way in feel like a luxury after seven days of guesthouse bunks and trail food.",
       "activities": ["Minivan from Theth", "Final night in Albania"],
       "photo": null,
       "segment_to_next": "bus"
@@ -211,7 +211,7 @@
       "country": "Albania",
       "type": "transit",
       "notes": "Departure day. Flight from Tirana to Budapest at 1:10pm.",
-      "description": "Final morning in Albania. Flew out of Tirana to Budapest at 1:10pm.",
+      "description": "Albania was one of the most isolated countries in the world until 1991. Visiting now feels like catching a place mid-transformation, before it fully changes.",
       "activities": ["Flight TIA to BUD at 1:10pm"],
       "photo": null,
       "segment_to_next": null
