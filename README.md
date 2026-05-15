@@ -16,7 +16,21 @@ An interactive map that visualizes a backpacking route through Albania, Kosovo, 
 
 ---
 
-## Tech Stack
+## Trip Stats
+
+- **Duration:** 17 days (May 5 – May 22, 2026)
+- **Countries:** 3 — Albania, Kosovo, Montenegro
+- **Total stops:** 14
+- **Nights on the Peaks of the Balkans trail:** 8
+- **Trail entry point:** Valbona, Albania
+- **Trail finish:** Theth, Albania
+- **Highest point:** Dobërdol ridge, near the tri-border zone of Albania, Kosovo, and Montenegro
+- **Transit legs:** Bus, ferry, and minivan
+- **OSM trail nodes mapped:** 1,644 across three country networks
+
+---
+
+##  Tech Stack
 
 - **osmnx** — queries the OpenStreetMap trail network by country
 - **networkx** — merges country graphs and computes shortest paths between hiking stops
