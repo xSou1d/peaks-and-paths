@@ -34,11 +34,10 @@ peaks-and-paths/
 │   └── photos/
 ├── output/
 │   └── map.html
-├── src/
-│   ├── load_data.py
-│   ├── fetch_trails.py
-│   ├── build_map.py
-│   └── main.py
+├── load_data.py
+├── fetch_trails.py
+├── build_map.py
+├── main.py
 ├── requirements.txt
 └── README.md
 ```
